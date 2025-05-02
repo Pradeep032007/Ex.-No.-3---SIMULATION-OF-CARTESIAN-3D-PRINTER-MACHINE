@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/user-attachments/assets/87c7ca5f-6d4f-427e-a43e-0b0c3d06abd6)
+
+
+### Name: SUBASH B
+### Register Number:212224220108
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
